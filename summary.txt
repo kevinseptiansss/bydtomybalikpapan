@@ -1,0 +1,105 @@
+Create modern resonsive landing page website focus on Mobile Screen Size
+it's for sales promotion make it when people see this website people want to bought it
+use professional icon DONOT USE EMOJI
+use professional animation smooth and elegant
+
+Theme :
+Black and White
+black header white content
+for logo there is asset in public folder use SVG and change the color
+
+JUST LIGHT THEME NO DARK THEME
+Remove dark theme we only use 1 light theme'
+
+remove icon vercel use byd logo i added in public folder
+
+each cars in here has image asset in public folder check it and applied it
+
+the data : 
+Alamat kantor 
+BYD Haka Auto Balikpapan 
+Jln. Ruhui Rahayu No.124
+Balikpapan 
+Kalimantan Timur
+
+Link :
+IG : https://www.instagram.com/byd.tomy.balikpapan?igsh=MXRjaWZwMGRqMGhtMg== 
+WA : https://wa.me/628115422449 
+Tiktok : tiktok.com/@bydtomybalikpapan 
+
+The Pricelist :
+
+The icon product 
+Denza D9 : Rp 996.000.000
+Driving Range : 600 km
+Battery Capacity : 230 kwh
+
+regular product
+
+BYD Sealion 7
+Premium Rp 647.000.000
+Driving Range : 567 km
+Battery Capacity : 82.56 kwh
+
+Performance Rp 737.000.000
+Driving Range : 520 km
+Battery Capacity : 82.56 kwh
+
+BYD Seal
+Premium Rp 659.000.000
+Driving Range : 650 km
+Battery Capacity : 82.56 kwh
+
+Performance Rp 770.000.000
+Driving Range : 580 km
+Battery Capacity : 82.56 kwh
+
+BYD Atto 1
+Dynamic Rp 209.000.000
+Driving Range : 300 km
+Battery Capacity : 30.08 kwh
+
+Premium Rp 250.000.000
+Driving Range : 380 km
+Battery Capacity : 38.88 kwh
+
+BYD Atto 3
+Advance Standard Rp 410.000.000
+Driving Range : 410 km
+Battery Capacity : 49.92 kwh
+
+Superior Rp 540.000.000
+Driving Range : 480 km
+Battery Capacity : 38.88 kwh
+
+BYD M6
+Standard Rp 403.000.000
+Driving Range : 420 km
+Battery Capacity : 55.4 kwh
+
+Superior Rp 443.000.000
+Driving Range : 530 km
+Battery Capacity : 71.8 kwh
+
+Superior Capt Seat Rp 453.000.000
+Driving Range : 530 km
+Battery Capacity : 71.8 kwh
+
+BYD Dolphin
+Dynamic Rp 389.000.000
+Driving Range : 410 km
+Battery Capacity : 44.9 kwh
+
+Premium Rp 449.000.000
+Driving Range : 490 km
+Battery Capacity : 60.48 kwh
+
+
+Other Information :
+Garansi Baterai 8 Tahun / 160.000 kilometer / SOH > 70%
+Garansi Motor 8 tahun / 150.000 kilometer
+Garansi Mobil 6 Tahun / 150.000 kilometer
+
+*S&K Berlaku
+*OTR Kalimantan Timur
+*Harga Sewaktu waktu bisa berubah
