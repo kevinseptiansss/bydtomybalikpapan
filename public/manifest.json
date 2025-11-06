@@ -1,0 +1,32 @@
+{
+  "name": "BYD Tomy Balikpapan - Mobil Listrik Premium",
+  "short_name": "BYD Tomy",
+  "description": "Dealer resmi BYD di Balikpapan. Jelajahi koleksi mobil listrik premium BYD dengan teknologi terdepan dan harga terbaik.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/byd logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/byd logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/byd logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["automotive", "business", "shopping"],
+  "lang": "id-ID"
+}

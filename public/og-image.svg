@@ -1,0 +1,18 @@
+<!-- Open Graph Image - 1200x630px for social media sharing -->
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black Background -->
+  <rect width="1200" height="630" fill="#000000"/>
+  
+  <!-- White BYD Logo centered (you'll need to replace this with actual BYD logo path) -->
+  <g transform="translate(300, 165)">
+    <text x="300" y="150" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#FFFFFF" text-anchor="middle">
+      BYD TOMY
+    </text>
+    <text x="300" y="220" font-family="Arial, sans-serif" font-size="36" fill="#FFFFFF" text-anchor="middle">
+      Balikpapan
+    </text>
+    <text x="300" y="280" font-family="Arial, sans-serif" font-size="24" fill="#999999" text-anchor="middle">
+      Mobil Listrik Premium | Dealer Resmi BYD
+    </text>
+  </g>
+</svg>
