@@ -1,4 +1,10 @@
+"use client";
+
 import Image from "next/image";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Pagination, Autoplay } from "swiper/modules";
+import "swiper/css";
+import "swiper/css/pagination";
 import {
   FaBatteryFull,
   FaRoute,
@@ -157,6 +163,14 @@ const cars = [
     ],
     image: "/byd dolphin.png",
   },
+];
+
+const galleryImages = [
+  "/gallery/IMG-20251106-WA0053.jpg",
+  "/gallery/IMG-20251106-WA0054.jpg",
+  "/gallery/IMG-20251106-WA0055.jpg",
+  "/gallery/IMG-20251106-WA0056.jpg",
+  "/gallery/IMG-20251106-WA0057.jpg",
 ];
 
 export default function Home() {
@@ -591,7 +605,51 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Gallery Section */}
+
+      <section className="py-16 sm:py-24 bg-white">
+        <div className="container mx-auto px-4">
+          <div className="text-center mb-12 sm:mb-16">
+            <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-gray-900 mb-4 sm:mb-6">
+              Galeri Pembeli
+            </h2>
+
+            <p className="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto">
+              Lihat kepuasan pelanggan kami dengan kendaraan BYD
+            </p>
+          </div>
+
+          <div className="max-w-4xl mx-auto">
+            <Swiper
+              modules={[Pagination, Autoplay]}
+              spaceBetween={30}
+              slidesPerView={1}
+              pagination={{ clickable: true }}
+              autoplay={{ delay: 5000, disableOnInteraction: false }}
+              loop={true}
+              className="gallery-swiper"
+            >
+              {galleryImages.map((image, index) => (
+                <SwiperSlide key={index}>
+                  <div className="group relative overflow-hidden rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-500">
+                    <div className="aspect-[3/4]">
+                      <Image
+                        src={image}
+                        alt={`Gallery image ${index + 1}`}
+                        fill
+                        className="object-cover transform group-hover:scale-105 transition-transform duration-700"
+                      />
+                    </div>
+                  </div>
+                </SwiperSlide>
+              ))}
+            </Swiper>
+          </div>
+        </div>
+      </section>
+
       {/* Warranty Section */}
+
       <section className="py-16 sm:py-24 bg-gradient-to-br from-black via-gray-900 to-black text-white relative overflow-hidden">
         {/* Background Pattern */}
         <div className="absolute inset-0 opacity-10">
